@@ -22,17 +22,13 @@ Real-time Careerhub: Powered by MERN
 This project is a full-fledged, real-time APP built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.io for seamless communication. It delves into every step of the development process, from setting up the backend API and database models to building a responsive React frontend with rich features like user authentication, post creation, live updates, chat functionality, and more.
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [node](https://nodejs.org/en)
 - [React](https://reactjs.org)
 - [mongodb](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
 - [tailwind](https://tailwindcss.com/)
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
